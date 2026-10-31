@@ -621,6 +621,7 @@ def auto_fx(text):
 - ElevenLabs 的 [request stitching](https://elevenlabs.io/docs/developer-guides/how-to-use-request-stitching)（`previous_request_ids`，v3 不支持，id 两小时有效）、[音效接口](https://elevenlabs.io/docs/api-reference/text-to-sound-effects/convert)（`eleven_text_to_sound_v2`，0.5–30 秒，`loop`，`prompt_influence` 默认 0.3）、[写法指南](https://elevenlabs.io/docs/best-practices/prompting)。
 - 本地耳朵：[QwenLM/Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR)。
 - 说话时的呼吸声（第三篇引过）：Werner、Trouvain、Möbius 等关于 speech breathing 的几篇，[其中一篇](https://www.coli.uni-saarland.de/~moebius/documents/werner_etal_jslhr2023.pdf)。
+- 3D 立体声（声音贴耳、绕着头走）这一篇没写，参考 Saekisui 的 [binaural-voice](https://github.com/Saekisui/binaural-voice)。
 
 ---
 
